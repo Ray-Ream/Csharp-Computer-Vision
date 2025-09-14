@@ -1,0 +1,16 @@
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\bin\Debug\net6.0-windows\DIP_Wei_gamma.exe
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\bin\Debug\net6.0-windows\DIP_Wei_gamma.deps.json
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\bin\Debug\net6.0-windows\DIP_Wei_gamma.runtimeconfig.json
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\bin\Debug\net6.0-windows\DIP_Wei_gamma.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\bin\Debug\net6.0-windows\DIP_Wei_gamma.pdb
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.Form1.resources
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.csproj.GenerateResource.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.AssemblyInfoInputs.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.AssemblyInfo.cs
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.csproj.CoreCompileInputs.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\refint\DIP_Wei_gamma.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.pdb
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\DIP_Wei_gamma.genruntimeconfig.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_gamma\DIP_Wei_gamma\obj\Debug\net6.0-windows\ref\DIP_Wei_gamma.dll
