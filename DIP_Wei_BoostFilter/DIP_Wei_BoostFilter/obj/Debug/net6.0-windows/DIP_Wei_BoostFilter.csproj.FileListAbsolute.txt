@@ -1,0 +1,16 @@
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\bin\Debug\net6.0-windows\DIP_Wei_BoostFilter.exe
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\bin\Debug\net6.0-windows\DIP_Wei_BoostFilter.deps.json
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\bin\Debug\net6.0-windows\DIP_Wei_BoostFilter.runtimeconfig.json
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\bin\Debug\net6.0-windows\DIP_Wei_BoostFilter.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\bin\Debug\net6.0-windows\DIP_Wei_BoostFilter.pdb
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.Form1.resources
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.csproj.GenerateResource.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.AssemblyInfoInputs.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.AssemblyInfo.cs
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.csproj.CoreCompileInputs.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\refint\DIP_Wei_BoostFilter.dll
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.pdb
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\DIP_Wei_BoostFilter.genruntimeconfig.cache
+C:\Users\CSIE\Desktop\wei\DIP_Wei_BoostFilter\DIP_Wei_BoostFilter\obj\Debug\net6.0-windows\ref\DIP_Wei_BoostFilter.dll
