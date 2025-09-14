@@ -1,0 +1,16 @@
+E:\DIPCource_hw\DIP_3D\DIP_3D\bin\Debug\net6.0-windows\DIP_3D.exe
+E:\DIPCource_hw\DIP_3D\DIP_3D\bin\Debug\net6.0-windows\DIP_3D.deps.json
+E:\DIPCource_hw\DIP_3D\DIP_3D\bin\Debug\net6.0-windows\DIP_3D.runtimeconfig.json
+E:\DIPCource_hw\DIP_3D\DIP_3D\bin\Debug\net6.0-windows\DIP_3D.dll
+E:\DIPCource_hw\DIP_3D\DIP_3D\bin\Debug\net6.0-windows\DIP_3D.pdb
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.Form1.resources
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.csproj.GenerateResource.cache
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.AssemblyInfoInputs.cache
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.AssemblyInfo.cs
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.csproj.CoreCompileInputs.cache
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.dll
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\refint\DIP_3D.dll
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.pdb
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\DIP_3D.genruntimeconfig.cache
+E:\DIPCource_hw\DIP_3D\DIP_3D\obj\Debug\net6.0-windows\ref\DIP_3D.dll
