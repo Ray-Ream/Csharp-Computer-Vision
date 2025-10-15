@@ -61,7 +61,7 @@ These projects are written in C#.
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg.png)
 
 - After loading the image:  
-![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg-agter.png)
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg-after.png)
 
 - Gray Scale loaded image:
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-gray-scale.png)
