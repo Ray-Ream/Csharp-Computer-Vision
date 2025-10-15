@@ -36,12 +36,26 @@ These projects are written in C#.
 1. **IDE:** Visual Studio 2022 (Community / Professional / Enterprise editions are all supported)  
 2. **.NET Framework:** 4.8 or higher, or .NET 6+ for modern C# projects  
 3. **UI Framework:** Windows Forms  
-4. **NuGet Packages / Libraries (if applicable):**  
-   - `System.Drawing.Common` (for image manipulation)  
-   - `Accord.NET` or `Emgu CV` (optional, for advanced computer vision support)  
-5. **Operating System:** Windows 10 or above  
-6. **Hardware:** Standard development PC; GPU acceleration is optional for intensive image processing  
+4. **Operating System:** Windows 10 or above  
 
 ---
 
 ### Image Bit Plane Calculation
+
+### Gamma Image Enhancement
+
+### Histogram Equalization
+
+### Noise Reduction Filtering
+
+### Edge Extraction
+
+### Hough Transform Line Detection
+
+### Hough Transform Circle Detection
+
+### High Gain Filtering
+
+### Binocular Ranging
+
+### Feature Template Matching
