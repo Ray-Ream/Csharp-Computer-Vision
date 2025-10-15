@@ -41,19 +41,33 @@ These projects are written in C#.
 ---
 
 ### Image Bit Plane Calculation
-- Initial UI interface：  
+- Initial UI interface:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-ui.png)
 
-- Click the button to load the image
+- Click the button to load the image:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-loadImg.png)
 
-- After loading the image
+- After loading the image:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-loadImg-after.png)
 
-- Calculation result
+- Calculation result:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-processed.png)
 
 ### Gamma Image Enhancement
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-ui.png)
+
+- Click the button to load the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg.png)
+
+- After loading the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg-agter.png)
+
+- Gray Scale loaded image:
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-gray-scale.png)
+
+- Calculation result:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-processed.png)
 
 ### Histogram Equalization
 
