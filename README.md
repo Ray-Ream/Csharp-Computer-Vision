@@ -70,6 +70,17 @@ These projects are written in C#.
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-processed.png)
 
 ### Histogram Equalization
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-loadImg-after.png)
+
+- Calculation result:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-processed.png)
+
+- Calculation result of multiple images:
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-processed-multi.png)
 
 ### Noise Reduction Filtering
 
