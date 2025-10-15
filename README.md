@@ -41,6 +41,7 @@ These projects are written in C#.
 ---
 
 ### Image Bit Plane Calculation
+- Initial UI interface  
 <a href="https://github.com/Ray-Ream/Csharp-Computer-Vision/">
   <img src="images/bit-plane-ui.png">
 </a>
