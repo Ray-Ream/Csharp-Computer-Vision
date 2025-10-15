@@ -59,6 +59,8 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 - Calculation result:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-processed.png)
 
+---
+
 ### Gamma Image Enhancement
 - Initial UI interface:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-ui.png)
@@ -75,6 +77,8 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 - Calculation result:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-processed.png)
 
+---
+
 ### Histogram Equalization
 - Initial UI interface:  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-ui.png)
@@ -88,16 +92,30 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 - Calculation result of multiple images:
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hist-processed-multi.png)
 
+---
+
 ### Noise Reduction Filtering
+
+---
 
 ### Edge Extraction
 
+---
+
 ### Hough Transform Line Detection
+
+---
 
 ### Hough Transform Circle Detection
 
+---
+
 ### High Gain Filtering
 
+---
+
 ### Binocular Ranging
+
+---
 
 ### Feature Template Matching
