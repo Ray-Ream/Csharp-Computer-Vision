@@ -36,7 +36,13 @@ These projects are written in C#.
 1. **IDE:** Visual Studio 2022 (Community / Professional / Enterprise editions are all supported)  
 2. **.NET Framework:** 4.8 or higher, or .NET 6+ for modern C# projects  
 3. **UI Framework:** Windows Forms  
-4. **Operating System:** Windows 10 or above  
+4. **Operating System:** Windows 10 or above
+
+###### Installation steps
+Clone the repo
+```sh
+https://github.com/Ray-Ream/Csharp-Computer-Vision.git
+```
 
 ---
 
