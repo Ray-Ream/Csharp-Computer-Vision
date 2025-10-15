@@ -39,7 +39,7 @@ These projects are written in C#.
 4. **Operating System:** Windows 10 or above
 
 ###### Installation steps
-Clone the repo
+Clone the repo:  
 ```sh
 https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ```
