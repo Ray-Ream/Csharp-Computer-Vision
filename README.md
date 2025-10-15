@@ -44,6 +44,15 @@ These projects are written in C#.
 - Initial UI interface：  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-ui.png)
 
+- Click the button to load the image
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-loadImg.png)
+
+- After loading the image
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-loadImg-after.png)
+
+- Calculation result
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-processed.png)
+
 ### Gamma Image Enhancement
 
 ### Histogram Equalization
