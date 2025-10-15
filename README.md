@@ -28,7 +28,7 @@ and other image processing algorithms
 - Feature template matching
 
 
-## Getting Started
+### Getting Started
 These projects are written in C#.
 
 
@@ -37,5 +37,5 @@ These projects are written in C#.
 2. Windows Forms
 
 
-## Image Bit Plane Calculation
+### Image Bit Plane Calculation
 
