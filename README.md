@@ -41,6 +41,7 @@ These projects are written in C#.
 ---
 
 ### Image Bit Plane Calculation
+<img src="images/images/bit-plane-ui.png">
 
 ### Gamma Image Enhancement
 
