@@ -42,7 +42,7 @@ These projects are written in C#.
 
 ### Image Bit Plane Calculation
 - Initial UI interface：  
-![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/images/bit-plane-ui.png)
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/bit-plane-ui.png)
 
 ### Gamma Image Enhancement
 
