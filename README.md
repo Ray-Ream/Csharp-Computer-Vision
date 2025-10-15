@@ -15,7 +15,7 @@ and other image processing algorithms
 
 
 ## Table of contents  
-- [Getting Started](#Getting Started)
+- [Getting Started](#Getting-Started)
 - Image Bit Plane Calculation
 - Gamma image enhancement
 - Histogram equalization
@@ -38,4 +38,3 @@ These projects are written in C#.
 
 
 ### Image Bit Plane Calculation
-
