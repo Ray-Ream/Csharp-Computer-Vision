@@ -110,6 +110,17 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ---
 
 ### Edge Extraction
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/edge-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/edge-loadImg-after.png)
+
+- Calculation result:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/edge-processed.png)
+
+- Calculation result of multiple images:
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/edge-multi.png)
 
 ---
 
