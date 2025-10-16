@@ -165,7 +165,7 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-ui.png)
 
 - Click the button to load and show the image:  
-![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-after.png)
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gamma-loadImg-after.png)
 
 - Calculation result of High Gain Filtering (X,Y axis direction):  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-xy.png)
