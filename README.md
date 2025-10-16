@@ -105,7 +105,7 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-mean.png)
 
 - Calculation result (Median Filter):
-![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-median.png)
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-mediam.png)
 
 ---
 
