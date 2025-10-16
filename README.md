@@ -173,7 +173,7 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 - Calculation result of High Gain Filtering (X,Y axis direction and Slope):  
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-xy-slope.png)
 
-- Calculation result of multiple images (Difference A):
+- Calculation result of multiple images (Difference A='1, 1.2, 1.5'):
 ![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-multi.png)
 
 ---
