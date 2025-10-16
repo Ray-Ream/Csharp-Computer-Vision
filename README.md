@@ -180,6 +180,18 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 
 ### Binocular Ranging
 
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/binocular-ui.png)
+
+- Click the button to load and display the image, and set the required parameters:
+The set values ​​include the known distances (cm) between the two cameras and the image coordinates of the two objects to be measured (red origins).
+*Calculations are performed based on the known coordinates of the red dots.
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/binocular-loadImg-setPos.png)
+
+- Calculation result:
+You can see that the calculated result is 21.61 cm, which is close to the actual result of 20 cm.
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/binocular-processed.png)
+
 ---
 
 ### Feature Template Matching
