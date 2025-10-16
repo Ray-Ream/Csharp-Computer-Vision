@@ -161,6 +161,20 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ---
 
 ### High Gain Filtering
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-after.png)
+
+- Calculation result of High Gain Filtering (X,Y axis direction):  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-xy.png)
+
+- Calculation result of High Gain Filtering (X,Y axis direction and Slope):  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-xy-slope.png)
+
+- Calculation result of multiple images (Difference A):
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/gain-processed-multi.png)
 
 ---
 
