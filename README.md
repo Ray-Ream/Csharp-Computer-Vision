@@ -125,6 +125,20 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ---
 
 ### Hough Transform Line Detection
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-line-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-line-loadImg-after.png)
+
+- Calculation result of Sobel Filter:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-line-sobel.png)
+
+- Calculation result of Hough Line Extraction:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-line-processed.png)
+
+- Calculation result of Hough Line Extraction transform image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-line-transform.png)
 
 ---
 
