@@ -95,6 +95,17 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ---
 
 ### Noise Reduction Filtering
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-loadImg.png)
+
+- Calculation result (Mean Filter):  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-mean.png)
+
+- Calculation result (Median Filter):
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/noise-median.png)
 
 ---
 
