@@ -143,6 +143,20 @@ https://github.com/Ray-Ream/Csharp-Computer-Vision.git
 ---
 
 ### Hough Transform Circle Detection
+- Initial UI interface:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-circle-ui.png)
+
+- Click the button to load and show the image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-circle-loadImg-after.png)
+
+- Calculation result of Sobel Filter:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-circle-sobel.png)
+
+- Calculation result of Hough Circle Extraction:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-circle-processed.png)
+
+- Calculation result of Hough Circle Extraction transform image:  
+![image](https://github.com/Ray-Ream/Csharp-Computer-Vision/blob/main/images/hough-circle-transform.png)
 
 ---
 
