@@ -10,7 +10,8 @@ This project covers the use of C# to write:
 - Hough transform circle detection,  
 - High gain filtering,  
 - Binocular ranging,  
-- Feature template matching    
+- Feature template matching
+  
 and other image processing algorithms
 
 
